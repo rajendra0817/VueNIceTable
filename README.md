@@ -1,24 +1,8 @@
-# my-vue-library
+# vue-nice-table
+## Plugin installation 
+```
+npm i vue-nice-table
 
-## Project setup
-```
-npm install
-```
-
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 ### Example how to use plugin
 Use in component file where to display table 
